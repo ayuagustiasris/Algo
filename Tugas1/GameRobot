@@ -1,0 +1,268 @@
+1. ambil handphone
+2. buka aplikasi playstore
+3. download game light bot hour
+4. instal aplikasi game 
+5. buka aplikasi game
+6. mainkan game nya
+
+	BASIC 1
+
+1 =>	1. maju satu petak
+	2. maju satu petak
+	3. nyalakan lampu
+
+2 =>	1. maju satu petak
+	2. maju satu petak
+	3. maju satu petak
+	4. hadap ke kanan
+	5. maju satu petak
+	6. maju satu petak
+	7. hadap kiri
+	8. maju satu petak
+	9. maju satu petak
+	10. nyalakan lampu
+
+3 =>	1. melompat
+	2. hadap ke kiri
+	3. hadap ke kanan
+	4. hadap ke kanan
+	5. nyalakan lampu
+	6. hadap kanan
+	7. melompat
+	8. nyalakan lampu
+
+4 =>	1. hadap ke kiri
+	2. melompat
+	3. hadap ke kanan
+	4. maju satu petak
+	5. maju satu petak
+	6. hadap kiri
+	7. melompat satu petak
+	8. melompat satu petak
+	9. melompat satu petak
+	10. nyalakan lampu
+
+5 =>	1. nyalakan lampu
+	2. melompat
+	3. maju satu petak
+	4. maju satu petak
+	5. hadap kiri
+	6. maju satu petak
+	7. nyalakan lampu
+	8. melompat
+	9. hadap kiri
+	10. maju satu petak
+	11. maju satu petak
+	12. melompat
+	13. nyalakan lampu
+
+6 => 	1. melompat
+	2. hadap kiri
+	3. maju satu petak
+	4. melompat
+	5. nyalakan lampu
+	6. hadap kiri
+	7. maju satu petak
+	8. maju satu petak
+	9. hadap kanan
+	10. melompat
+	11. maju satu petak
+	12. nyalakan lampu
+
+7 =>	1. maju satu petak
+	2. hadap kiri
+	3. melompat
+	4. nyalakan lampu
+	5. melompat
+	6. nyalakan lampu
+	7. hadap kiri
+	8. melompat
+	9. nyalakan lampu
+	10. hadap kiri
+	11. melompat
+	12. nyalakan lampu
+
+8 => 	1. melompat
+	2. melompat
+	3. hadap kanan
+	4. maju satu petak
+	5. hadap kiri
+	6. melompat
+	7. nyalakan lampu
+	8. hadap kiri
+	9. maju satu petak
+	10.nyalakan  lampu
+	11. melompat
+	12. nyalakan lampu
+
+
+	PROCEDURES 2
+
+
+1 =>	1. panggil p1
+		isi p1 : 1. maju satu petak
+			 2. maju satu petak
+			 3. maju satu petak
+			 4. nyalakan lampu
+	2. hadap kanan
+	3. panggil p1
+	4. hadap kanan 
+	5. panggil p1
+
+2 =>	1. panggil p1
+		isi p1 : 1.maju satu petak
+			 2.hadap kanan
+			 3.maju satu petak
+			 4.hadap kanan
+	2. panggil p1
+	3. panggil p1
+	4. panggil p1
+	5. nyalakan lampu
+
+3 =>	1. pangggil p1
+		isi p1 : 1.maju satu petak
+			 2.maju satu petak
+			 3.maju satu petak 
+			 4.nyalakan lampu
+
+	2. hadap kiri
+	3. melompat
+	4. hadap kiri
+	5. panggil p1
+	6. hadap kanan
+	7. melompat
+	8. hadap kanan
+	9. panggil p1
+
+4 =>	1. panggil p1
+		isi p1 : 1.maju satu petak
+			 2.nyalakan lampu
+			 3.maju satu petak
+			 4.nyalakan lampu
+			 5.maju satu petak
+			 6.nyalakan lampu
+	2. hadap kanan
+	3. maju satu petak
+	4. maju satu petak
+	5. hadap  kanan
+	6. panggil p1
+	7. panggil p2
+    		isi p2 : 1.hadap kiri
+			 2.maju satu petak
+			 3.maju satu petak
+			 4.hadap kiri
+	8. panggil p1
+
+5 => 	1. panggil p1
+		isi p1 : 1.nyalakan lampu
+			 2.melompat
+			 3.nyalakan lampu
+			 4.melopmpat
+			 5.nyalakan lampu
+			 6.melompat
+			 7.nyalakan lampu
+			 8.hadap kiri
+	2. panggil p2 	
+		isi p2 : 1.hadap kiri
+			 2.melompat
+			 3.melompat
+			 4.melompat
+			 5.hadap kanan
+			 6.maju satu petak
+			 7.maju satu petak
+			 8.hadap kanan
+	3. maju satu petak
+	4. panggil p1
+	5. panggil p2
+	6. maju satu langkah
+	7. panggil p1
+
+6 =>	1. panggil p1
+		isi p1 : 1.panggil p2
+			 2.nyalakan lampu
+			 3.maju satu langkah
+			 4.nyalakan lampu
+			 5.hadap kiri
+			 6.maju satu langkah
+			 7.melompat
+			 8.melompat
+		isi p2 : 1.maju satu langkah
+			 2.nyalakan lampu
+			 3.hadap kiri
+			 4.maju satu langkah
+			 5.nyalakan lampu
+			 6.hadap kiri
+			 7.nyalakan lampu
+			 8.hadap kiri
+	2. maju satu petak
+	3. hadap kiri
+	4. panggil p1
+	5. maju satu petak
+	6. hadap kiri
+	7. panggil p1
+	8. maju satu petak
+	9. hadap kiri
+	10. panggil p1
+
+		LOOPS 3
+
+1 =>	1. panggil p1
+		isi p1 : 1.maju satu langkah
+			 2.nyalakan lampu
+			 3.panggil p1
+
+2 =>	1.panggil p1
+		isi p1 : 1.melompat
+			 2.nyalakan lampu
+			 3.panggil p1
+
+3 =>	1. panggil p1
+		isi p1 : 1.maju satu langkah
+			 2.nyalakan lampu
+			 3.hadap kiri
+			 4.maju satu langkah
+			 5.melompat
+			 6.nyalakan lampu
+			 7.nyalakan lampu
+			 8.panggil p1
+
+4 =>	1. panggil p1
+		isi p1 : 1. melompat
+			 2. maju satu langkah
+			 3. hadap kiri
+			 4. maju satu langkah
+			 5. nyalakan lampu
+			 6. hadap kanan
+			 7. maju satu langkah
+			 8. panggil p1
+
+5 =>	1. panggil p1
+		isi p1 : 1. panggil p2
+				isi p2 : 1. nyalakan lampu
+					 2. melompat
+					 3. nyalakan lampu
+					 4. maju satu langkah
+					 5. nyalakan lampu
+					 6. maju satu langkah
+					 7. nyalakan lampu
+			 2. melompat
+			 3. hadap kiri
+			 4. nyalakan lampu
+			 5. melompat
+			 6. nyalakan lampu
+			 7. panggil p1
+
+6 =>	1. panggil p1
+		isi p1 : 1. panggil p2
+				isi p2 : 1. melompat
+					 2. melompat
+					 3. hadap kiri
+					 4. maju satu langkah
+					 5. nyalakan lampu
+					 6. melompat
+					 7. nyalakan lampu
+			 2. maju satu langkah
+			 3. hadap kiri
+			 4. melompat
+			 5. hadap kiri
+			 6. panggil p1
